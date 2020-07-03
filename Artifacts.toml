@@ -1,0 +1,38 @@
+[[jlqml]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea141dd999e313eea1b4578020dd8856a1f5e7de"
+libc = "glibc"
+os = "linux"
+
+    [[jlqml.download]]
+    sha256 = "3aa26d3af35b5cda9285ca61c89d32dee11acee996f4a4fdcf02c55a80dee197"
+    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.0+0/jlqml.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[jlqml]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "657abf70623a35cf6866f3b9ef736e93020a17b8"
+os = "macos"
+
+    [[jlqml.download]]
+    sha256 = "d3372ae1257a4148e4a375629b6718385c0e0db81dd33f7a29cd36689ca75f60"
+    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.0+0/jlqml.v0.1.0.x86_64-apple-darwin14-cxx11.tar.gz"
+[[jlqml]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "91e9ce9b2a60b3c127b8aa45b40a6e0f510623b4"
+libc = "glibc"
+os = "linux"
+
+    [[jlqml.download]]
+    sha256 = "7b6296eb89334800d175f79074795f74a0cf9f4227de66c74d7b51ece27f9b24"
+    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.0+0/jlqml.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[jlqml]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ab7cac7f0ff86f9d543c43261dfb8f72df90d39b"
+os = "windows"
+
+    [[jlqml.download]]
+    sha256 = "f0527379e4cd7dde33e5ac8652da9db2d1a68b1ea89e780bd1c6af9432139de2"
+    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.0+0/jlqml.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
