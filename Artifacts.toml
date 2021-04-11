@@ -1,154 +1,154 @@
 [[jlqml]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e7a92740dfbe57e2a199bd1d8d40c3622a6e9798"
+git-tree-sha1 = "3056127b04f663f3fc399c63ded40fb0f5a21e45"
 libc = "glibc"
 os = "linux"
 
     [[jlqml.download]]
-    sha256 = "6a0e713bcc84418530d838227a13d2a7c8a7ea6bd9710a4af4f0b4ba3060ea83"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "47d47b68a3496bb69a1c6b5e7619353a25385bf4499ce2849d44b66f92c48f3e"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[jlqml]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a075c52c2a9018139f0f33fbcfb43df9d9fa14d2"
+git-tree-sha1 = "dc06f4523d240386fa25724ea6993c4841d81f7d"
 libc = "glibc"
 os = "linux"
 
     [[jlqml.download]]
-    sha256 = "d564da0c2632e5a7d2302ed5ddc6eb42698f5f602b5b891f018c8c6f45036231"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "fcf67f5ed7af43111516f119a416994f4d82dc5704a02358469dab5a32abf130"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[jlqml]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b3b1ee5343f8f878aee3f629c180cbb7fc863ef5"
+git-tree-sha1 = "f4165622ec359387b4746a14bfbe9ceb8cab46f8"
 libc = "glibc"
 os = "linux"
 
     [[jlqml.download]]
-    sha256 = "98e47e6c04b576830863e69a611359c023c0f12d7683953f5dfe2cd792aa9130"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "d1d710fffc17d3f459226efe17207409a153860c45656b5ec98aa933ac8155b3"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[jlqml]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "62eced36eb92b675a273869633c38d2a1e75636f"
+git-tree-sha1 = "098c6c093567863a76653e1a7704926fe93bf0ec"
 libc = "glibc"
 os = "linux"
 
     [[jlqml.download]]
-    sha256 = "bb4aca81e28be1e312e9287c755d0890964cb2322977d0fccc7d1fc5ca0b04d8"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "21e4be6601197ce9dd2e7facd5b354a6bd1eeea0fbe03a6d094310fcc841650c"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[jlqml]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b74576a1b7e195c4b4b31814e79ab42687e3e844"
+git-tree-sha1 = "238635cb52e205d3fdf728f704bec229bdeb1c8a"
 libc = "glibc"
 os = "linux"
 
     [[jlqml.download]]
-    sha256 = "8405125a6df8219c309eda84edecec69838263c52b1a791627ed3fe78cfb76e3"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "000901b8dcee2c3fc024b9d03dc6c2ceff0baff2c6808fe58ba9d8d119554f0a"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.i686-linux-gnu-cxx03.tar.gz"
 [[jlqml]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "51a3beaa00d9652ff72dac312c742bd3040a1d28"
+git-tree-sha1 = "3bdc313fba6a81e1377a0b1cd9543d73557bb13d"
 libc = "glibc"
 os = "linux"
 
     [[jlqml.download]]
-    sha256 = "cd03f6486c670f8472b012621ee6e2e78105ebe7a5a6d102159f1429ef03eb3c"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "14cfd104ffcbb104b462250d7c997c04dc5d1a5a35673b3c94b12fe547129f3f"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.i686-linux-gnu-cxx11.tar.gz"
 [[jlqml]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5bac9b95c83e7f87d27afe732651eb532db82f53"
+git-tree-sha1 = "3251726837b272028365446561d339ef635f5730"
 os = "windows"
 
     [[jlqml.download]]
-    sha256 = "70a0308a9184f47aa4882278a0028717a47265beb2069e5c7c2fb4202ab8699f"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "5f49e7cdd42c5d09134511f75a6cfb505b4e71fe4df9122ca82df41219147ee0"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.i686-w64-mingw32-cxx03.tar.gz"
 [[jlqml]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ee6b4d0d2fc681539e54e278668cb197d051dc0d"
+git-tree-sha1 = "592cf41c88805974062aa3788d7bcae50033ed18"
 os = "windows"
 
     [[jlqml.download]]
-    sha256 = "dd469f1baf22d6e66d7b1c03c2a0dc47a1541039073bf4a52089ee86e250682d"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "6b808bfe7ae76a2ba4f55660baa19364ca3b33d50c54db7f420a8a036b295b97"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.i686-w64-mingw32-cxx11.tar.gz"
 [[jlqml]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "349e5d10f0620fe74a3bf50779acd0130de42abf"
+git-tree-sha1 = "e627ba1f696306ebe5cfd619c69a1a09a2bdeb66"
 libc = "glibc"
 os = "linux"
 
     [[jlqml.download]]
-    sha256 = "888bcdc265dfdc4f1acbef1ca04e7172f5bb7a04cdd221e7dec98e1dab3ea920"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "a4b2ac39496caa608c8e7a48b5f88806ae2da4e66c09efa6e3161937fda28888"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[jlqml]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa10d0be28a4719eb6840f88671c9ac451a8b9b0"
+git-tree-sha1 = "4f355ad08f8657f2f26161f97191a243874b499a"
 libc = "glibc"
 os = "linux"
 
     [[jlqml.download]]
-    sha256 = "64b24eae931052b0abb70cb30794c43c44ee326ffda58f51c13e1a6918640b43"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "c1974c6bfc09ec9ccba49e761044f4d72e659885caabf01bbf91908f4d1a04fe"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[jlqml]]
 arch = "x86_64"
-git-tree-sha1 = "09c2c613ee89b7512b616bfcd88891ee4bb90f24"
+git-tree-sha1 = "3c0466f1964a75e59382b84226f95f9e9c1122fb"
 os = "macos"
 
     [[jlqml.download]]
-    sha256 = "5510932c16205fb32a71418288598cf2d9d5d3c9d0106fee38f3d4d0880e55e7"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.x86_64-apple-darwin.tar.gz"
+    sha256 = "5407ca104e4ec20c526f51134260926b4acd164fcae7ed9f5fbe3d9c2481fa1c"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.x86_64-apple-darwin.tar.gz"
 [[jlqml]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a1b513dcf8e4053c1719cd385f90769079819471"
+git-tree-sha1 = "649a0d00881567de4c4e0f951d10d2049510ddbb"
 libc = "glibc"
 os = "linux"
 
     [[jlqml.download]]
-    sha256 = "d27cf57a128f6c83048260183e12d0c3386e26c498ed793e712524d9b03d7234"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "6eb66cdc949b74b1859d0dc1cb6e1ea6632281bca54920009158d617104082b4"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[jlqml]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8d154de53e87729ee8aaacd2ecfaeaebe6eccf72"
+git-tree-sha1 = "319a22e7b878c7ae592c20dad9d2e60904080a11"
 libc = "glibc"
 os = "linux"
 
     [[jlqml.download]]
-    sha256 = "552d57a53f4b59ada7e94c0bd305223645a606ab171829c47bf71f652c9df6d3"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "06524a3c6529a0a8069574998dae8fcb4138186ef71872973cd120fa57cc3166"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[jlqml]]
 arch = "x86_64"
-git-tree-sha1 = "5268b139b78806e006d7a00b60d2d42299491342"
+git-tree-sha1 = "81c6b210118a1d4f99968adf75d996d2b62577c8"
 os = "freebsd"
 
     [[jlqml.download]]
-    sha256 = "ff8ad746450ebb2030ae006ec9856a668b0bc7b66f61cb348bb014cc69db9bd4"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "50a0c9f361c30f2ae3ed305ff114399ddec8e37d9d5f691ebf7ae9a36569707c"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.x86_64-unknown-freebsd.tar.gz"
 [[jlqml]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e674bf4f9f5d621f00bff323a9e9046b0a6147c0"
+git-tree-sha1 = "5d7f3fcd261989adb48efb528a973bce26e1d752"
 os = "windows"
 
     [[jlqml.download]]
-    sha256 = "7d6624491f0fc32a579b12e73141f9d87fefffecaa57560bc53d3b38e72a7e8c"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "101916bf0ca537946ad70f3a80abd846a9d753399573bee64a50033934398a32"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[jlqml]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "65ee34acf07c8058dc5b67dbfc5f1d04c202d7e2"
+git-tree-sha1 = "03644d1f98c6f89fa1e1e1ec4803f7f071898da6"
 os = "windows"
 
     [[jlqml.download]]
-    sha256 = "cf0127c4f18e88e87ac60ce5d74dd1e59bcc5ea73e405177cf9094fb5673d6cf"
-    url = "https://github.com/JuliaBinaryWrappers/jlqml_jll.jl/releases/download/jlqml-v0.1.5+0/jlqml.v0.1.5.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "1b27e9488d357d7392cf75e09358d6f7dc44695603fb4898527c9a4924eeef2e"
+    url = "https://github.com/barche/jlqml_jll.jl/releases/download/jlqml-v0.2.0+0/jlqml.v0.2.0.x86_64-w64-mingw32-cxx11.tar.gz"
